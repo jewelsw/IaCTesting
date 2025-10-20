@@ -8,7 +8,8 @@ Mehedi Hassan (Lead) , Akond Rahman
 
 ### Details 
 
-> Test Pattern Miner for Ansible(TAMA) 
+> Test Pattern Miner for Ansible(TAMA)
+> testing CI pipeline
 
 # What is TAMA
 **T**est P**a**ttern **M**iner for **A**nsible  is a tool that identifies testing pattern instances that correlate with the appearance of bugs in Ansible test scripts. TAMA parses the relevant test YAML files of a repository where Ansible has been used and indicates some patterns like `Assertion Roulette`, `Linter Strangler`, `Local Only Testing` and `Remote Mystery Guest`.
